@@ -1,2 +1,2 @@
-# haskell-99-solutions
-Solutions to the ninety-nine Haskell problems
+# Ninety-Nine Haskell Solutions
+My solutions to the [ninety-nine Haskell problems](https://wiki.haskell.org/H-99:_Ninety-Nine_Haskell_Problems)
