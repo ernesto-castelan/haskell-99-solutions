@@ -1,4 +1,4 @@
--- Define predicates and, or, nand, nor, xor, impl and equ 
+-- Define predicates and, or, nand, nor, xor, impl and equ
 -- which succeed or fail according to the result of their respective operations.
 not' :: Bool -> Bool
 not' True = False
